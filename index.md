@@ -7,9 +7,10 @@ title: Riichi Anywhere — support
 
 Riichi Anywhere is Japanese riichi mahjong for iPhone, played entirely offline.
 
-- **Three or four players.** Play a full hanchan at a four-player table or a
-  three-player (sanma) table, against AI opponents at four difficulty levels, from a
-  beginner-friendly bot up to a policy network trained on real play.
+- **Three or four players.** Play at a four-player table or a three-player (sanma)
+  table — a single hand, an East-only game or a full hanchan — against AI opponents at
+  four difficulty levels, from a beginner-friendly bot up to a policy network trained on
+  real play.
 - **Rules you can set.** Built-in presets transcribed from Tenhou's ranked-match rules
   and the World Riichi Championship 2025 rules, and a ruleset editor for starting
   points, uma, kuitan, red fives, kan-dora timing and dozens more.
@@ -17,18 +18,18 @@ Riichi Anywhere is Japanese riichi mahjong for iPhone, played entirely offline.
   furiten, and an in-game helper shows which yaku your hand can still complete.
 - **Review.** After a game, walk through your decisions and see how often a model
   trained on human play would have made the same move.
-- **History.** Every finished game is kept on your iPhone, with statistics by ruleset
-  and table size, backup and restore, and export as mjai or tenhou6 logs.
+- **History.** Every finished game is kept on your iPhone, with statistics by ruleset,
+  table size and game length, backup and restore, and export as mjai or tenhou6 logs.
 
 No account, no ads, and the app makes no network connections of its own.
 
 ## The free download and the unlock
 
-The app is free to download. The free version is the full game on the Tenhou preset
-at both table sizes, all four difficulty levels, the guided first hand, and the review
-of your most recent game. A one-time in-app purchase unlocks the other presets and the
-ruleset editor, the review of any game, the full statistics filters, and backup and
-export.
+The app is free to download. The free version plays games of one hand on the Tenhou
+preset at both table sizes, with all four difficulty levels, the guided first hand, and
+the review of your most recent game. A one-time in-app purchase unlocks East-only games
+and full hanchan, the other presets and the ruleset editor, the review of any game, the
+full statistics filters, and backup and export.
 
 - **Restoring the unlock** on a new iPhone or after reinstalling: use Restore Purchases
   in the app's Settings, or on the unlock's own page, signed in with the same Apple
@@ -47,7 +48,7 @@ Please include:
 - your **iPhone model** and **iOS version** (Settings › General › About);
 - the **app version** (Settings › General › iPhone Storage › Riichi Anywhere);
 - **what you did**, step by step, **what happened**, and **what you expected**;
-- for a rules or scoring question, the **ruleset** and **table size**, and which hand;
+- for a rules or scoring question, the **ruleset**, **table size** and **game length**, and which hand;
   with the unlock, attach the game's log too (History › the game › Export as mjai);
 - a screenshot, if it shows the problem.
 
